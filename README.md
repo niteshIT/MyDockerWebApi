@@ -2,7 +2,7 @@
 
 1. Clone the Repository
    First, clone the repository to your local machine:
-     git clone [https://github.com/yourusername/mywebapi.git](https://github.com/niteshIT/MyDockerWebApi.git)
+     git clone https://github.com/niteshIT/MyDockerWebApi.git
      cd mywebapi
 2. Build and Run Using Docker Compose:
      docker build -t mywebapidocker:1.0 .
